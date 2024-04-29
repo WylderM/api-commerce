@@ -18,8 +18,8 @@ API RESTful desenvolvida para gerenciar informações de produtos em um sistema 
 
 ### Pré-requisitos
 
-- Java 11 ou superior
-- Maven 3.6 ou superior
+- Java 17 ou superior
+- Maven 4.0 ou superior
 - Docker (opcional)
 - Conta AWS/Azure para uso de S3/Blob (opcional)
 
